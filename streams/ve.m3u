@@ -53,3 +53,19 @@ https://vcp.myplaytv.com/petrotv/petrotv/playlist.m3u8
 https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8
 #EXTINF:-1 tvg-id="" status="online",Catatumbo
 http://vcp1.myplaytv.com:1935/catatumbotv/catatumbotv/playlist.m3u8
+#EXTINF:-1 tvg-id="AguacateTV.ve", tvg-logo="https://intervenhosting.net/imagenes/aguacatetv.jpg" status="online", Aguacate TV (1080) [Not 24/7]
+https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="GuaroTV.ve", tvg-logo="https://intervenhosting.net/imagenes/guarotv.jpg" status="online", Guaro TV (1080) [Not 24/7]
+https://streamtv.intervenhosting.net:3061/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="interTV.ve", tvg-logo="https://intervenhosting.net/imagenes/intertv.jpg" status="online", Inter TV (1080) [Not 24/7]
+https://streamtv.intervenhosting.net:3175/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="KandelaTV.ve", tvg-logo="https://intervenhosting.net/imagenes/kandelatv.jpg" status="online", Kandela TV (1080) [Not 24/7]
+https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
+#EXTINF:-1 tvg-id="LatinaTV.ve", tvg-logo="https://intervenhosting.net/imagenes/latinatv.jpg" status="online", Latina TV (1080) [Not 24/7]
+https://streamtv.intervenhosting.net:3639/multi_live/play.m3u8
+#EXTINF:-1 tvg-id="Iglesialgd.org", tvg-logo="https://intervenhosting.net/imagenes/lgdtv.jpg" status="online", Portuguesa Televisión (1080) [Not 24/7]
+https://streamtv.intervenhosting.net:3259/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="Portutv.com", tvg-logo="https://intervenhosting.net/imagenes/portutv.jpg" status="online", Portuguesa Televisión (1080) [Not 24/7]
+https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
+#EXTINF:-1 tvg-id="Telecentro.com.ve", tvg-logo="https://intervenhosting.net/imagenes/telecentro.jpg" status="online", Telecentro (1080) [Not 24/7]
+https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8
